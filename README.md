@@ -27,9 +27,15 @@ Arguments:
 smoothScroll(position, timeToScroll, callback)
 ```
 
+````
 position: number of position for the window to be scrolled to (required)
+
+
 timeToScroll: time taken to scroll to element position (optional: default 500ms)
+
+
 callback: what to do when done with scroll (optional)
+```
 
 ## Installation
 
